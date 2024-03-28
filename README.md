@@ -1,0 +1,2 @@
+# Vison-based-Lane-Detection-system-for-Autonomous-Vehicle
+This GitHub repository hosts the source code and resources for a vision-based lane detection system designed for autonomous vehicles. Leveraging computer vision techniques and deep learning models, this system aims to accurately detect and track lane markings on the road, providing crucial information for autonomous navigation and vehicle control.
